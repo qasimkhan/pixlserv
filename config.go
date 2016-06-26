@@ -6,7 +6,7 @@ import (
 	"os"
 	"regexp"
 
-	"code.google.com/p/freetype-go/freetype"
+	"github.com/golang/freetype"
 
 	"github.com/ReshNesh/go-colorful"
 	"gopkg.in/yaml.v1"
